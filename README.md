@@ -4,8 +4,11 @@
     <legend>Challenge</legend>
 
 <div>
-    <input type="checkbox" id="1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)" name="1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)" checked />
-        <label align=:justify" for="1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)">1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)</label>
+    <input type="checkbox" id="text1" name="text1" checked />
+        <p align=:justify">
+            <label for="1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)">1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)
+            </label>
+        </p>
 </div>
  
 <div>

@@ -5,9 +5,9 @@
 
 <div>
     <input type="checkbox" id="1" name="1" checked />
-        <align="justify>
+        <p align="justify">
             <label for="1">1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)</label>
-        </a>
+        </p>
   </div>
  
 
@@ -30,5 +30,5 @@
 
 
 8. Bonus: 
-    - [ ] Make images, js and css in separate folders.
-    - Apply CSS reusable and present your solution.
+    - [V] Make images, js and css in separate folders.
+    - [X] Apply CSS reusable and present your solution.

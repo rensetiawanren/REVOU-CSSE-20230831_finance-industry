@@ -106,4 +106,5 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 - [ ] Complete Challenge
 - [ ] Create Documentation Files
 
-[Documentation File](https://docs.google.com/document/d/1Z2-4UcXQhEoHggw0oqg73Oy3Xy50eFdcZHZrZb8Tbpw/edit?usp=sharing)
+### Report
+[Documentation](https://docs.google.com/document/d/1Z2-4UcXQhEoHggw0oqg73Oy3Xy50eFdcZHZrZb8Tbpw/edit?usp=sharing)

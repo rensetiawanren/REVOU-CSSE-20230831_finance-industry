@@ -2,7 +2,7 @@
 
 Challenge
 
-1. [] Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)
+1. [ ] Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)
 
 2. [ ] Make the chart show in the middle, and reduce top and bottom gap
 
@@ -14,7 +14,7 @@ Challenge
 6. [ ] Create validation to check if phone and email are the right format. For phones, use ID format.
 7. [ ] Move the script in HTML to script.js
 
-8. Bonus: 
-    - [x] Make images, js and css in separate folders.
-    - [X] Apply CSS reusable and present your solution.
+8. [x] Make images, js and css in separate folders
+
+9. [ ] Apply CSS reusable and present your solution.
 

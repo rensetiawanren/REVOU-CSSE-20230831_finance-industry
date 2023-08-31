@@ -3,6 +3,15 @@
   <img src="https://github.com/rensetiawanren/REVOU-CSSE-20230831_Finance-Industry/blob/main/Images/Banner/CB-003-00021_REVOU-SCSE-20230831_SE-Finance-Industry_(Fixing-Bugs).png"/>
 </p>
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFtIVqXA_Q&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFtIVqXA_Q&#x2F;view?utm_content=DAFtIVqXA_Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">CB-003-00021_REVOU-SCSE-20230831_SE-Finance-Industry_(Fixing-Bugs)</a> by rensetiawanren
+
 ---
 
 # Software Engineering in Finance Industry (Fixing Bugs)
@@ -105,4 +114,4 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 - [ ] Create Documentation Files
 
 ### Report
-[Documentation](https://docs.google.com/document/d/1Z2-4UcXQhEoHggw0oqg73Oy3Xy50eFdcZHZrZb8Tbpw/edit?usp=sharing)
+[Documentation](https://docs.google.com/presentation/d/11Hy6V2_S-jwAuuiraZvB6Laj47bmKVCIhgad5o6ZeAw/edit?usp=sharing)

@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1rBgSxKyfO0swDFQVVjmMk4iUyG0M9_lS/view?usp=sharing"/>
+  <img src="https://github.com/rensetiawanren/REVOU-CSSE-20230831_Finance-Industry/blob/main/Images/Banner/CB-003-00021_REVOU-SCSE-20230831_SE-Finance-Industry_(Fixing-Bugs).png"/>
 </p>
 
 ---

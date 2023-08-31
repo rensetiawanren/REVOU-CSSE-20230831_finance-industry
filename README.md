@@ -34,7 +34,7 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 
 4. [ ] Error text is too far away from the input field. Make it closer to the input field, but keep maintaining the gap between each input field
 
-5. [ ] Add validation to the name field, the name cant be empty.
+5. [ ] Add validation to the name field, the name can't be empty.
 6. [ ] Create validation to check if phone and email are the right format. For phones, use ID format
 
 7. [ ] Move the script in HTML to script.js
@@ -104,4 +104,6 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 ### To-Do
 - [X] Complete Workflow
 - [ ] Complete Challenge
-- [ ] Documentation Files
+- [ ] Create Documentation Files
+
+[Documentation File](https://docs.google.com/document/d/1Z2-4UcXQhEoHggw0oqg73Oy3Xy50eFdcZHZrZb8Tbpw/edit?usp=sharing)

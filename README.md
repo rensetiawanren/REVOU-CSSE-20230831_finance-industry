@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/rensetiawanren/REVOU-CSSE-20230831_Finance-Industry/blob/main/Images/Banner/CB-003-00021_REVOU-SCSE-20230831_SE-Finance-Industry_(Fixing-Bugs).png"/>
 </p>
 
 ---
@@ -48,7 +48,6 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 ---
 <!--[Tech Stack]-->
 ## Tech Stack
-
 ##### Programming Language
 <p align="justify">
   <!--[HTML]-->
@@ -102,3 +101,7 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 
 <!-- Documentation -->
 ## Documentation
+### To-Do
+- [X] Complete Workflow
+- [ ] Complete Challenge
+- [ ] Documentation Files

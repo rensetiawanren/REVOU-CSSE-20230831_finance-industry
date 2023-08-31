@@ -5,9 +5,7 @@
 
 <div>
     <input type="checkbox" id="1" name="1" checked />
-        <p align="justify">
-            <label for="1">1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)</label>
-        </p>
+        <label align=:justify" for="1">1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)</label>
   </div>
  
 
@@ -30,5 +28,7 @@
 
 
 8. Bonus: 
-    - [V] Make images, js and css in separate folders.
+    - [ ] Make images, js and css in separate folders.
     - [X] Apply CSS reusable and present your solution.
+
+    </fieldset>

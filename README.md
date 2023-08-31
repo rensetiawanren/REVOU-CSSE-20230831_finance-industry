@@ -30,5 +30,5 @@
 
 
 8. Bonus: 
-    - [] Make images, js and css in separate folders.
+    - [ ] Make images, js and css in separate folders.
     - Apply CSS reusable and present your solution.

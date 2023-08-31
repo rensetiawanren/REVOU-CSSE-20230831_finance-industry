@@ -2,7 +2,7 @@
 
 Challenge
 
-[ ] 1. Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)
+1. [ ] Make this navigation navigate to respective sections (Allocation: Chart, Contact Us: Form input)
 
 [ ] 2.  Make the chart show in the middle, and reduce top and bottom gap
 

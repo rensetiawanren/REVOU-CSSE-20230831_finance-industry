@@ -42,4 +42,18 @@
     - [ ] Make images, js and css in separate folders.
     - [X] Apply CSS reusable and present your solution.
 
-    </fieldset>
+</fieldset>
+
+<fieldset>
+  <legend>Choose your monster's features:</legend>
+
+  <div>
+    <input type="checkbox" id="scales" name="scales" checked />
+    <label for="scales">Scales</label>
+  </div>
+
+  <div>
+    <input type="checkbox" id="horns" name="horns" />
+    <label for="horns">Horns</label>
+  </div>
+</fieldset>

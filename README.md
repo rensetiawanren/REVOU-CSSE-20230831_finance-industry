@@ -1,6 +1,6 @@
 <!--[Banner]-->
 <kbd>
-  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/Banner/CB-003-00021_REVOU-SCSE-20230831_se-finance-industry_(fix-bugs).png"/>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/banner/CB-003-00021_REVOU-SCSE-20230831_se-finance-industry_(fix-bugs).png"/>
 </kbd>
 
 # Software Engineering in Finance Industry (Fixing Bugs)

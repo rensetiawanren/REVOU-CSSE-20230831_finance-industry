@@ -1,9 +1,7 @@
 <!--[Banner]-->
-<p align="center">
-  <img src="https://github.com/rensetiawanren/REVOU-CSSE-20230831_Finance-Industry/blob/main/Images/Banner/CB-003-00021_REVOU-SCSE-20230831_SE-Finance-Industry_(Fixing-Bugs).png"/>
-</p>
-
----
+<kbd>
+  <img align="center" width="auto" height="auto" style="border-radius: 10px" src="assets/Banner/CB-003-00021_REVOU-SCSE-20230831_se-finance-industry_(fix-bugs).png"/>
+</kbd>
 
 # Software Engineering in Finance Industry (Fixing Bugs)
 Mini Coding Project **fixing bugs** for Case Study RevoU Software Engineering Mini Course Community batch 31 August 2023.
@@ -106,3 +104,5 @@ Throughout this challenge, you’re responsible for improving or modifying the s
 
 ### Report
 [Documentation](https://docs.google.com/presentation/d/11Hy6V2_S-jwAuuiraZvB6Laj47bmKVCIhgad5o6ZeAw/edit?usp=sharing)
+
+---
